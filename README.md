@@ -1,1 +1,1 @@
-# mpesa_c2b_sdk
+THis SDK is an improved version of the mpesa c2b package
