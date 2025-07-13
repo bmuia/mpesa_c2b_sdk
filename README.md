@@ -8,6 +8,6 @@ This SDK is a simplified and improved version of existing Mpesa C2B packages. It
 
 ## Installation
 ```bash
-pip install mpesa-c2b-sdk==0.1.0
+pip install mpesa-c2b-sdk
 ```
 Ideal for developers building Kenyan payment solutions using Safaricom's sandbox or production APIs.
