@@ -7,7 +7,7 @@ setup(
     long_description=open('README.md').read(), 
     long_description_content_type='text/markdown',
     author='Belam Muia',
-    author_email='your@email.com',
+    author_email='belammuia0@gmail.com',
     url='https://github.com/bmuia/mpesa_c2b_sdk.git',
     packages=find_packages(),                
     install_requires=[
