@@ -1,5 +1,7 @@
 site_name: mpesa-c2b SDK Docs
 site_url: https://github.com/bmuia/mpesa_c2b_sdk.git
+site_dir: site
+
 theme:
   name: material
   language: en
