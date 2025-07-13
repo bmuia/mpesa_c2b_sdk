@@ -1,0 +1,10 @@
+site_name: mpesa-c2b SDK Docs
+site_url: https://github.com/bmuia/mpesa_c2b_sdk.git
+theme:
+  name: material
+  language: en
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api-reference.md
+  - FAQ: faq.md
