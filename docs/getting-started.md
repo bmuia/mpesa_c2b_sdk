@@ -15,7 +15,7 @@ ENVIRONMENT=sandbox
 # Sandbox credentials
 CONSUMER_KEY_SANDBOX=your_sandbox_key
 CONSUMER_SECRET_SANDBOX=your_sandbox_secret
-BASE_URL_SANDBOX=[https://sandbox.safaricom.co.ke/](https://sandbox.safaricom.co.ke/)
+BASE_URL_SANDBOX=https://sandbox.safaricom.co.ke/
 ```
 
 ---
@@ -30,7 +30,7 @@ pip install mpesa-c2b-sdk
 
 ## Quick Example
 ```python
-from mpesa_c2b_sdk.payments import register_url, simulate
+from mpesa_c2b_sdk import register_url, simulate
 
 # Register confirmation and validation URLs
 register_url(
