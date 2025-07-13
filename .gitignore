@@ -1,1 +1,10 @@
 .env
+
+/myenv
+
+/venv
+
+__pycache__
+
+!requirements.txt
+

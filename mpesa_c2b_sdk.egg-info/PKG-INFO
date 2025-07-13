@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: mpesa_c2b_sdk
+Version: 0.1.0
+Summary: A Python SDK for Safaricom Daraja C2B APIs
+Home-page: https://github.com/bmuia/mpesa_c2b_sdk.git
+Author: Belam Muia
+Author-email: your@email.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: requests>=2.20.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+THis SDK is an improved version of the mpesa c2b package
