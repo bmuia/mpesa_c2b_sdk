@@ -28,7 +28,7 @@ Community leaders are responsible for clarifying and enforcing standards of acce
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [your-email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [belammuia0@mail.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 
