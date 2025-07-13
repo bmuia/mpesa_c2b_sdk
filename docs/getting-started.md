@@ -8,6 +8,15 @@ Before installing and using the SDK, ensure you have the following:
 - 🌐 **Public URLs for confirmation and validation** (required by Safaricom to receive transaction callbacks).
 - 🔐 **Safaricom Developer Credentials** (Consumer Key and Consumer Secret).
 - 🧪 For testing: an account on [Safaricom Developer Portal](https://developer.safaricom.co.ke/) with access to the sandbox environment.
+- ⚙️ A `.env` file in your project root with the following content:
+
+```env
+ENVIRONMENT=sandbox
+# Sandbox credentials
+CONSUMER_KEY_SANDBOX=your_sandbox_key
+CONSUMER_SECRET_SANDBOX=your_sandbox_secret
+BASE_URL_SANDBOX=[https://sandbox.safaricom.co.ke/](https://sandbox.safaricom.co.ke/)
+```
 
 ---
 
